@@ -1,4 +1,4 @@
- const targetWord = "WILLINGTO";
+ const targetWord = "MATUTULOG";
     let guessed = Array(targetWord.length).fill("_");
 
     const wordDisplay = document.getElementById("wordDisplay");
